@@ -1,0 +1,1 @@
+An open-source Android client that connects to your video dubbing backend server to transcribe, translate, and dub videos using AI. Supports optional 2 USDT (BEP20) donations via the Buy Me a Coffee button.

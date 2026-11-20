@@ -1,0 +1,11 @@
+{
+  "appId": "com.tg.dubbingstudio",
+  "appName": "DubbingAPK",
+  "webDir": "www",
+  "server": {
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
